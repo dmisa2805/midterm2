@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "homepage": "https://dmisa2805.github.io/midterm2",
   "dependencies": {
     "antd": "^5.22.5",
     "react": "^18.3.1",
